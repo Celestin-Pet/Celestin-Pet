@@ -1,4 +1,4 @@
-- 👋 Hello, <b>I’m Celestin Peter!</b>
+ ### 👋 Hello, I’m Celestin Peter!
 - 👀 <u>I'm interested in full-stack development, including both front-end and back-end technologies.</u>
 - 🌱 Currently,I'm expanding my knowledge in front-end frameworks like React.js and back-end frameworks like Node.js.&database management systems..
 - 💞️ I'm actively looking to collaborate on projects that working on full-stack innovations& solutions. 
