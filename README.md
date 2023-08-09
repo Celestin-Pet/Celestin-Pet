@@ -3,9 +3,9 @@
 - Currently,I'm expanding my knowledge in front-end frameworks like React.js and back-end frameworks like Node.js
                &database management  systems..
   
-- I'm actively looking to collaborate on projects that working on **full-stack innovations& solutions**. 
+- I'm actively looking to collaborate on projects that working on **full-stack innovations& solutions**.
+-  💞️reach me out celestin.np@gmail.com
 - **< I'm excited about the possibility of collaborating on interesting projects as a full-stack developer../>**
-- 💞️reach me out celestin.np@gmail.com
 
 
 
