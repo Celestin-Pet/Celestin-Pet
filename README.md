@@ -3,7 +3,7 @@
 -  💞️reach me out celestin.np@gmail.com
   
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Celestin-Pet&show_icons=true&theme=radical" />
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celestin-Pet&theme=chartreuse-white&langs_count=10&layout=compact" />
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celestin-Pet&theme=chartreuse-onedark&langs_count=10&layout=compact" />
 
  
 
