@@ -1,10 +1,8 @@
  ### 👋 Hello, I’m Celestin! 
  
   I'm a developer using github for most of my projects as you can see below. 
-  ![Stats](https://github-readme-stats.vercel.app/api?username=Celestin-Pet&count_private=true&theme=chartreuse-dark&show_icons=true)
-  <img    src="https://github-readme-stats.vercel.app/api?username=Celestin-Pet&show_icons=true&theme=radical" />
-  I like coding development, the language matters little to me, but somehow I end up with Pyhthon and c++ quite often.
-  
+  ![Stats](https://github-readme-stats.vercel.app/api?username=Celestin-Pet&show_icons=true&theme=radical)  
+  I like coding development, the language matters little to me, but somehow I end up with Pyhthon and c++ quite often.  
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celestin-Pet&theme=chartreuse-onedark&langs_count=10&layout=compact" />
  
 
