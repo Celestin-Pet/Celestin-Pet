@@ -6,18 +6,13 @@ I'm a developer using github for most of my projects as you can see below.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Celestin-Pet=anuraghazra&layout=compact)
 
 I like coding, the language matters little to me, but somehow I end up with Python and c++ quite often.
-![Stats](https://your-deploy-name.vercel.app/api?username=Celestin-Pet&show_icons=true&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=Celestin-Pet&color=brightgreen)
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Celestin-Pet)
-![Repos by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Celestin-Pet)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Celestin-Pet=anuraghazra&langs_count=8)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Celestin-Pet&theme=chartreuse-onedark&langs_count=10&layout=compact)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Celestin-Pet&color=brightgreen)
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Celestin-Pet)
-![Repos by Language](https://github-readme-stats.vercel.app/api/top-langs/?username=celestin-pet&theme=chartreuse-onedark&langs_count=10&layout=compact&cache_seconds=1800)
-![Stats](https://github-readme-stats.vercel.app/api?username=celestin-pet&show_icons=true&theme=radical&cache_seconds=1800)
+
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=celestin-pet&theme=chartreuse-onedark&langs_count=10&layout=compact&cache_seconds=1800)
 
 
