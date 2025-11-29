@@ -9,7 +9,7 @@ I like coding, the language matters little to me, but somehow I end up with Pyth
 ![Profile Views](https://komarev.com/ghpvc/?username=Celestin-Pet&color=brightgreen)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Celestin-Pet)
 ![Repos by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Celestin-Pet)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Celestin-Pet=anuraghazra&langs_count=8)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Celestin-Pet&theme=chartreuse-onedark&langs_count=10&layout=compact)
 
 
