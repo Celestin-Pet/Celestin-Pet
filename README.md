@@ -2,7 +2,7 @@
 
 I'm a developer using github for most of my projects as you can see below.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Celestin-Pet=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Celestin-Pet=anuraghazra&layout=compact)
 
 I like coding, the language matters little to me, but somehow I end up with Python and c++ quite often.
 
