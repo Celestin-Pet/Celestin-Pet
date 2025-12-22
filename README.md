@@ -4,6 +4,7 @@ I am a full-stack software developer focused on building intelligent web platfor
 Strong experience with Python, Node.js, React, SQL/NoSQL databases, IoT integration, sensor systems, and cloud-based environments.
 
 I'm a developer using GitHub for most of my projects as you can see below.
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Celestin-Pet&layout=compact)
 
 I’m always up for cool projects — especially in enterprise software, AI/ML, Deep Learning, IoT, and real-time data platforms.
