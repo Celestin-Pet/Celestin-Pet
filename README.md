@@ -15,7 +15,6 @@ I’m always up for cool projects — especially in enterprise software, AI/ML, 
 
 
 ## 🤖 AI / ML / Deep Learning / IoT & Robotics
-
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white)  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  ![NLP](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge&logo=apache%20airflow&logoColor=white)  ![IoT](https://img.shields.io/badge/IoT-00A6A6?style=for-the-badge&logo=arduino&logoColor=white)  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)  ![Edge Computing](https://img.shields.io/badge/Edge%20Computing-006699?style=for-the-badge&logo=linux&logoColor=white) ![Robotics](https://img.shields.io/badge/Robotics-272727?style=for-the-badge&logo=robotframework&logoColor=white) ![Sensors](https://img.shields.io/badge/Sensors-444444?style=for-the-badge&logo=sparkfun&logoColor=white) 
 
 The language matters little to me, but somehow I end up with Python and C++ quite often.
